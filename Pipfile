@@ -1,0 +1,6 @@
+[packages]
+stegano = "*"
+tqdm = "*"
+
+[requires]
+python_version = "3.11"
