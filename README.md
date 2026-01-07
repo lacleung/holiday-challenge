@@ -8,7 +8,6 @@ I'm sorry if I forgot something. I promise it was here before. You'll just have 
 
 # Steps
 1. Create a folder on your desktop with the right name.
-1. Put the right secret in the folder
 1. Run it.
     1. On windows .ps1
     1. On mac .sh
